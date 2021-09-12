@@ -1,4 +1,4 @@
-package com.design.adapterpattern.xpay;
+package com.designpattern.adapter.xpay;
 
 import java.math.BigDecimal;
 

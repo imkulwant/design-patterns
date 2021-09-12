@@ -1,12 +1,12 @@
-package com.design.adapterpattern;
+package com.designpattern.adapter;
 
-import com.design.adapterpattern.payd.PayD;
-import com.design.adapterpattern.xpay.Xpay;
-import com.design.adapterpattern.xpay.XpayImpl;
+import com.designpattern.adapter.payd.PayD;
+import com.designpattern.adapter.xpay.Xpay;
+import com.designpattern.adapter.xpay.XpayImpl;
 
 import java.math.BigDecimal;
 
-public class AdapterPatternMain {
+public class AdapterPatternExecutor {
     /***
      * The Adapter pattern lets us to adapt what an object or a class exposes to what another object or class expects.
      * It converts the interface of a class into another interface the client expects.

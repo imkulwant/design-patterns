@@ -1,4 +1,4 @@
-package com.design.adapterpattern.payd;
+package com.designpattern.adapter.payd;
 
 public interface PayD {
 

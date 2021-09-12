@@ -1,7 +1,7 @@
-package com.design.adapterpattern;
+package com.designpattern.adapter;
 
-import com.design.adapterpattern.payd.PayD;
-import com.design.adapterpattern.xpay.Xpay;
+import com.designpattern.adapter.payd.PayD;
+import com.designpattern.adapter.xpay.Xpay;
 
 public class XpayToPayDAdapter implements PayD {
 
