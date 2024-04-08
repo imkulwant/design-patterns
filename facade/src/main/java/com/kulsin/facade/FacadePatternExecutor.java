@@ -1,6 +1,14 @@
 package com.kulsin.facade;
 
-import com.designpattern.facade.model.*;
+
+import com.kulsin.facade.model.Amplifier;
+import com.kulsin.facade.model.CdPlayer;
+import com.kulsin.facade.model.DvdPlayer;
+import com.kulsin.facade.model.PopcornPopper;
+import com.kulsin.facade.model.Projector;
+import com.kulsin.facade.model.Screen;
+import com.kulsin.facade.model.TheaterLights;
+import com.kulsin.facade.model.Tuner;
 
 public class FacadePatternExecutor {
 

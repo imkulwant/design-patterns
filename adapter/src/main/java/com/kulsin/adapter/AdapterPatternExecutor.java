@@ -1,8 +1,9 @@
 package com.kulsin.adapter;
 
-import com.designpattern.adapter.payd.PayD;
-import com.designpattern.adapter.xpay.Xpay;
-import com.designpattern.adapter.xpay.XpayImpl;
+
+import com.kulsin.adapter.payd.PayD;
+import com.kulsin.adapter.xpay.Xpay;
+import com.kulsin.adapter.xpay.XpayImpl;
 
 import java.math.BigDecimal;
 
