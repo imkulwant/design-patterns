@@ -3,3 +3,5 @@
 
 
 ![strategy-pattern.png](src%2Fmain%2Fresources%2Fstrategy-pattern.png)
+
+![strategy-pattern-character-weapons.png](src%2Fmain%2Fresources%2Fstrategy-pattern-character-weapons.png)
