@@ -5,18 +5,20 @@
 3. Facade
 4. [Observer](observer%2FREADME.md)
 
-## OO Principles
-
-- Encapsulate what varies
-- Favor composition over inheritence
-- Program to interfaces, not implementations
-
 ## OO Basics
 
 - Abstraction
 - Encapsulation
 - Polymorphism
 - Inheritance
+
+## OO Principles
+
+- Encapsulate what varies
+- Favor composition over inheritence
+- Program to interfaces, not implementations
+- Strive for loosely coupled designs between objects that interact.
+
 
 ### References
 
