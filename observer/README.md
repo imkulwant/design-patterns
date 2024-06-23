@@ -8,5 +8,5 @@ The Observer Pattern defines a one-to-many dependency between objects so that wh
 ### Custom Implementation
 ![observer-pattern-dig-2.png](src%2Fmain%2Fresources%2Fobserver-pattern-dig-2.png)
 
-### Implementation using built-in java.util.observable
+### Implementation using built-in `java.util.observable`
 ![java_util_observable-dig.png](src%2Fmain%2Fresources%2Fjava_util_observable-dig.png)

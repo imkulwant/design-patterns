@@ -3,6 +3,7 @@
 1. [Strategy](strategy%2FREADME.md)
 2. Adapter
 3. Facade
+4. [Observer](observer%2FREADME.md)
 
 ## OO Principles
 
