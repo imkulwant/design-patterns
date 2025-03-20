@@ -30,6 +30,7 @@
         <module>facade</module>
         <module>strategy</module>
         <module>observer</module>
+        <module>decorator</module>
     </modules>
 
 
