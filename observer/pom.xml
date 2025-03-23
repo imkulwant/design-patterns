@@ -5,10 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.kulsin</groupId>
-        <artifactId>design-pattern</artifactId>
+        <artifactId>design-patterns</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
     <artifactId>observer</artifactId>
+    <name>Observer</name>
 
 </project>

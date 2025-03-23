@@ -1,9 +1,10 @@
 # Design Patterns
 
-1. [Strategy](strategy%2FREADME.md)
-2. Adapter
+1. Adapter
+2. [Decorator](decorator/README.md)
 3. Facade
-4. [Observer](observer%2FREADME.md)
+4. [Observer](observer/README.md)
+5. [Strategy](strategy/README.md)
 
 ## OO Basics
 
@@ -14,10 +15,11 @@
 
 ## OO Principles
 
-- Encapsulate what varies
-- Favor composition over inheritence
-- Program to interfaces, not implementations
+- Encapsulate what varies.
+- Favor composition over inheritance.
+- Program to interfaces, not implementations.
 - Strive for loosely coupled designs between objects that interact.
+- Classes should be open for extension but closed for modification.
 
 
 ### References

@@ -1,7 +1,8 @@
 ## The Decorator Pattern
 
-- This pattern allows us to add new behaviors/functionalities to an object without modifying its structure.
-- **Purpose**: To extend the functionality of an object without modifying its structure.
+- This pattern allows adding new behaviors to objects dynamically by placing them inside special wrapper objects called decorators.
+- It is particularly useful for adding new functionality to an object without modifying its structure, adhering to the Open-Closed Principle.
+- **Purpose**: To extend the functionality of classes without modifying their existing code.
 - **Use Cases**: Ideal for adding optional features or behaviors at runtime, avoiding subclass explosion, and adhering
   to the Open-Closed Principle.
 
@@ -42,7 +43,7 @@
   order = new Mocha(order); // Add decorator
   
   if (order instanceof HouseBlend) { // Returns FALSE
-  applyDiscount(); // Discount never applies!
+    applyDiscount(); // Discount never applies!
   }
   ```
 
