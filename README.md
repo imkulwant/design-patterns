@@ -3,8 +3,9 @@
 1. Adapter
 2. [Decorator](decorator/README.md)
 3. Facade
-4. [Observer](observer/README.md)
-5. [Strategy](strategy/README.md)
+4. [Factory](factory/README.md)
+5. [Observer](observer/README.md)
+6. [Strategy](strategy/README.md)
 
 ## OO Basics
 
