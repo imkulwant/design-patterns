@@ -1,0 +1,38 @@
+@startuml
+rectangle "Factory Pattern" {
+
+interface Product {
+    +operation()
+}
+
+class ConcreteProductA {
+    +operation()
+}
+
+class ConcreteProductB {
+    +operation()
+}
+
+abstract class Creator {
+    +{abstract} factoryMethod(): Product
+    +someOperation()
+}
+
+class ConcreteCreatorA {
+    +factoryMethod(): Product
+}
+
+class ConcreteCreatorB {
+    +factoryMethod(): Product
+}
+
+Product <|.. ConcreteProductA : Implements
+Product <|.. ConcreteProductB : Implements
+Creator <|-- ConcreteCreatorA : Extends
+Creator <|-- ConcreteCreatorB : Extends
+Creator --> Product : Creates
+ConcreteCreatorA ..> ConcreteProductA : Creates
+ConcreteCreatorB ..> ConcreteProductB : Creates
+
+}
+@enduml
