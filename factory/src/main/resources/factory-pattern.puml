@@ -1,4 +1,5 @@
 @startuml
+rectangle "Factory Pattern" {
 
 interface Product {
     +operation()
@@ -33,4 +34,5 @@ Creator --> Product : Creates
 ConcreteCreatorA ..> ConcreteProductA : Creates
 ConcreteCreatorB ..> ConcreteProductB : Creates
 
+}
 @enduml

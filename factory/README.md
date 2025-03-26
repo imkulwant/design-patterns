@@ -13,6 +13,15 @@
 - **Flexibility**: Allows runtime decision-making.
 - **Decoupling**: Separates client code from object creation.
 
+# 1
+```plantuml
+source="src/main/resources/factory-pattern.puml"
+```
+
+# 2
+![Factory_Pattern](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/imkulwant/design-patterns/factory/factory/src/main/resources/factory-pattern.puml)
+
+# 3
 ```plantuml source="src/main/resources/factory-pattern.puml"
 ```
 
