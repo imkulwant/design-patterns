@@ -3,7 +3,7 @@
 - It hides/encapsulates object creation logic from client.
 - The client interacts with objects through a **common interface** or **abstract class**.
 
-![Factory_Pattern](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/imkulwant/design-patterns/factory/factory/src/main/resources/factory-pattern.puml)
+![Factory_Pattern](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/imkulwant/design-patterns/main/factory/src/main/resources/factory-pattern.puml)
 
 ## Key Components
 - **Product Interface/Abstract Class**: Defines the common structure for objects created by the factory.
