@@ -1,8 +1,6 @@
 package com.kulsin.pizza_store;
 
-
 import com.kulsin.ingredients.ChicagoPizzaIngredientFactory;
-import com.kulsin.ingredients.NYPizzaIngredientFactory;
 import com.kulsin.ingredients.PizzaIngredientFactory;
 import com.kulsin.pizza.CheesePizza;
 import com.kulsin.pizza.ClamPizza;

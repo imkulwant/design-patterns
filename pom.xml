@@ -19,13 +19,13 @@
     </properties>
 
     <modules>
-        <module>adapter</module>
-        <module>facade</module>
-        <module>strategy</module>
-        <module>observer</module>
-        <module>decorator</module>
-        <module>factory</module>
         <module>abstract-factory</module>
+        <module>adapter</module>
+        <module>decorator</module>
+        <module>facade</module>
+        <module>factory</module>
+        <module>observer</module>
+        <module>strategy</module>
     </modules>
 
 </project>
